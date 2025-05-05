@@ -1,4 +1,8 @@
-
+WEDE READ ME FILE
+proposal
+ 
+ 
+Organisation overview
 Organisation name :
  Mosemathebohlo
 background
@@ -89,3 +93,65 @@ Freelancer/Mid-Level: R27,000 – R72,000
 Professional/Agency Level: R90,000+
 References
 There are no sources in the current document.
+.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
