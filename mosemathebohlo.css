@@ -900,11 +900,7 @@
             line-height: 1.6;
         }
         
-        .nav {
-         background: linear-gradient(to bottom right,var(--accent-color)var(--text-color));
-            padding: 15px 20px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
+        
         
         .navibar {
             display: flex;
